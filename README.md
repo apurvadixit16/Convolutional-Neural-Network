@@ -24,7 +24,7 @@
 ## Conclusions
 ### Model 1
 #### Accuracy and Loss for model 1
-![Accuracy and Loss for model 1](Images/Model1.png)
+![Accuracy and Loss for model 1](Images/Model1.PNG)
 - Model 1 was trained for 20 epochs with available data
 - Observations:
     - The model clearly overfits.
@@ -35,7 +35,7 @@
 ### Model 2
 
 #### Accuracy and Loss for model 2 - keras augmentation
-![Accuracy and Loss for model 2](Images/Model2.png)
+![Accuracy and Loss for model 2](Images/Model2.PNG)
 - Model 2 was trained for 20 epochs with keras built-in data augmentation.
 - Following augmentations were used
     - Rotation
@@ -47,9 +47,9 @@
 
 ### Model 3
 #### Accuracy and Loss for model 3 - Class imbalance changes + Dropout and Batch Normalization
-![Accuracy and Loss for model 3](Images/Model3_1.png)
+![Accuracy and Loss for model 3](Images/Model3_1.PNG)
 #### Accuracy and Loss for model 3 - Class imbalance changes + Dropout
-![Accuracy and Loss for model 3](Images/Model3_2.png)
+![Accuracy and Loss for model 3](Images/Model3_2.PNG)
 - Model 3 was trained for 30 epochs 
 - Augmentor was used to reduce class imbalance (500 images per class got added)
 - Observations:
