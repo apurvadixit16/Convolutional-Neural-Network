@@ -35,7 +35,7 @@
 ### Model 2
 
 #### Accuracy and Loss for model 2 - keras augmentation
-![Accuracy and Loss for model 2](Images/Model2.png)
+![Accuracy and Loss for model 2](Images/Model2.PNG)
 - Model 2 was trained for 20 epochs with keras built-in data augmentation.
 - Following augmentations were used
     - Rotation
